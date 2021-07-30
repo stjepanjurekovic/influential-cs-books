@@ -99,6 +99,7 @@ So, the list is preserved here :)
 85. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
 86. [No Bugs!](http://www.amazon.com/No-Bugs-Delivering-Error-Free/dp/0201608901) by David Thielen
 87. [JUnit in Action](http://www.manning.com/tahchiev/) by Petar Tahchiev
+88. [Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs) by Tomasz Lelek and Jon Skeet
 
 
 ## Original thread
